@@ -1,6 +1,6 @@
 # BlogWebsite
 
-**1. Technologies Used **
+**1. Technologies Used**
 - JavaScript
 - HTML
 - BootStrap
